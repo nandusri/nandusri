@@ -1,9 +1,7 @@
-# Nandini Kasu
-
 ### Technical Lead · Data Engineering · Cloud Technologies
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:2563EB&height=190&section=header&text=Nandini%20Kasu&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Engineering%20Data.%20Building%20Possibilities.&descSize=16&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:2563EB&height=190&section=header&text=Hi,%20I'm%20Nandini%20Kasu&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Engineering%20Data.%20Building%20Possibilities.&descSize=16&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
